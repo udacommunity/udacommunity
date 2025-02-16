@@ -9,6 +9,6 @@
 ## 🔗 Bizning platformalar  
 - [Telegram](https://t.me/UDA_Community)  
 - [Discord](https://discord.gg/9qHbG26y)  
-- [GitHub](GitHub_havolasi)  
+- [GitHub](@udacommunity)  
 
 ## 📢 UDAga qo‘shiling va IT rivojiga hissa qo‘shing!
